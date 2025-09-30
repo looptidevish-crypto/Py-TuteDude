@@ -14,3 +14,6 @@ This is a repo that has all the Python course tasks
 
 - A4T1 : Assignment 4 , Task 1 : Read a File and Handle Errors
 - A4T2 : Assignment 4 , Task 2 : Write and Append Data to a File
+
+- A5T1 : Assignment 5 , Task 1 : Create a Dictionary of Student Marks
+- A5T2 : Assignment 5 , Task 2 : Demonstrate List Slicing
