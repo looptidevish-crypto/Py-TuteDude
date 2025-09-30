@@ -11,3 +11,6 @@ This is a repo that has all the Python course tasks
 
 - A3T1 : Assignment 3 , Task 1 : Calculate Factorial Using a Function
 - A3T2 : Assignment 3 , Task 2 : Using the Math Module for Calculations
+
+- A4T1 : Assignment 4 , Task 1 : Read a File and Handle Errors
+- A4T2 : Assignment 4 , Task 2 : Write and Append Data to a File
